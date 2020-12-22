@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" filepath="$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-03-web/springboot-03-web.iml" filepath="$PROJECT_DIR$/springboot-03-web/springboot-03-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-04-jdbc/springboot-04-jdbc.iml" filepath="$PROJECT_DIR$/springboot-04-jdbc/springboot-04-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-04-jdbctemplate/springboot-04-jdbctemplate.iml" filepath="$PROJECT_DIR$/springboot-04-jdbctemplate/springboot-04-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-05-task/springboot-05-task.iml" filepath="$PROJECT_DIR$/springboot-05-task/springboot-05-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-07-mybatis/springboot-07-mybatis.iml" filepath="$PROJECT_DIR$/springboot-07-mybatis/springboot-07-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-08-swagger/springboot-08-swagger.iml" filepath="$PROJECT_DIR$/springboot-08-swagger/springboot-08-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-09-redis/springboot-09-redis.iml" filepath="$PROJECT_DIR$/springboot-09-redis/springboot-09-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-10-zookeeper-dubbo-provider/springboot-10-zookeeper-dubbo-provider.iml" filepath="$PROJECT_DIR$/springboot-10-zookeeper-dubbo-provider/springboot-10-zookeeper-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/springboot-11-zookeeper-dubbo-consumer-service.iml" filepath="$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/springboot-11-zookeeper-dubbo-consumer-service.iml" />
+    </modules>
+  </component>
+</project>

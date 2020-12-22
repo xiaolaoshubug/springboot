@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot-02-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-03-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-jdbctemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-05-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-07-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-09-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-10-zookeeper-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

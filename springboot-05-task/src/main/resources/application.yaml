@@ -1,0 +1,13 @@
+# 邮件配置
+spring:
+  mail:
+    host: smtp.qq.com
+    port: 465
+    username: 354191718@qq.com
+    ## 授权码
+    password: unuzxbuhjesgbgbh
+    properties:
+      mail:
+        smtp:
+          ssl:
+            enable: true

@@ -1,0 +1,26 @@
+# 多环境配置可以使用 --- 分割开
+# 默认环境
+server:
+  port: 8080
+#  开启springboot的调试类
+debug: true
+# 指定环境
+spring:
+  profiles:
+    active: dev
+---
+# 开发环境
+server:
+  port: 8081
+spring:
+  config:
+    activate:
+      on-profile: dev
+---
+# 测试环境
+server:
+  port: 8082
+spring:
+  config:
+    activate:
+      on-profile: test
