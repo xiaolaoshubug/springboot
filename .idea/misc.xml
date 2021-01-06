@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/springboot-09-redis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-10-zookeeper-dubbo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-12-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-elasticsearch-demo/pom.xml" />
       </list>
     </option>
   </component>

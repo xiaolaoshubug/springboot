@@ -1,0 +1,459 @@
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2514d6da] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1660984373 wrapping com.mysql.jdbc.JDBC4Connection@2b81966f] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2514d6da]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4797e092] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1229985296 wrapping com.mysql.jdbc.JDBC4Connection@2b81966f] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4797e092]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6cdee61] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1298354486 wrapping com.mysql.jdbc.JDBC4Connection@38e69f9d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6cdee61]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@175f13c4] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@429453151 wrapping com.mysql.jdbc.JDBC4Connection@38e69f9d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@175f13c4]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e9bb71b] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@542923960 wrapping com.mysql.jdbc.JDBC4Connection@38e69f9d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e9bb71b]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2ca8ebd6] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1265392958 wrapping com.mysql.jdbc.JDBC4Connection@38e69f9d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2ca8ebd6]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@64046d8b] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@989153278 wrapping com.mysql.jdbc.JDBC4Connection@7da8818d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@64046d8b]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5467f629] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@291861185 wrapping com.mysql.jdbc.JDBC4Connection@7da8818d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5467f629]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4357cbb4] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@584612306 wrapping com.mysql.jdbc.JDBC4Connection@69ad6772] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4357cbb4]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25e7e179] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1612647688 wrapping com.mysql.jdbc.JDBC4Connection@69ad6772] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@25e7e179]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@325a0a5f] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@2126369049 wrapping com.mysql.jdbc.JDBC4Connection@75930cdc] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@325a0a5f]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6998ff80] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1734286531 wrapping com.mysql.jdbc.JDBC4Connection@75930cdc] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6998ff80]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@72df67ec] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@754854852 wrapping com.mysql.jdbc.JDBC4Connection@5f2445ed] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@72df67ec]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@22293bce] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@753848827 wrapping com.mysql.jdbc.JDBC4Connection@5f2445ed] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@22293bce]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@48e40c39] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@966434525 wrapping com.mysql.jdbc.JDBC4Connection@4bad0597] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@48e40c39]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3163e2ed] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@556056588 wrapping com.mysql.jdbc.JDBC4Connection@72729652] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3163e2ed]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@c2c776c] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@56810231 wrapping com.mysql.jdbc.JDBC4Connection@38f9386d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@c2c776c]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3cbd3e49] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1528309410 wrapping com.mysql.jdbc.JDBC4Connection@38f9386d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==>  Preparing: UPDATE user SET name = ? wher id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==> Parameters: 小天学redis(String), 4(String)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3cbd3e49]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@79a4f08] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@447437016 wrapping com.mysql.jdbc.JDBC4Connection@11e5dec] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==>  Preparing: UPDATE user SET name = ? wher id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==> Parameters: 小天学redis(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@79a4f08]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2360d4d9] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1319802796 wrapping com.mysql.jdbc.JDBC4Connection@63157634] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2360d4d9]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bf6f195] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1376509289 wrapping com.mysql.jdbc.JDBC4Connection@63157634] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==> Parameters: 小天学redis(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bf6f195]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@604ea177] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1415339101 wrapping com.mysql.jdbc.JDBC4Connection@2d168097] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==> Parameters: 小天学redis(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@604ea177]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f436379] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@788155825 wrapping com.mysql.jdbc.JDBC4Connection@e809db0] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7f436379]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@43420757] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1758295566 wrapping com.mysql.jdbc.JDBC4Connection@e809db0] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUserById]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@43420757]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c4df88e] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@315765550 wrapping com.mysql.jdbc.JDBC4Connection@25e210fd] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c4df88e]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@630b9c7c] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1842118253 wrapping com.mysql.jdbc.JDBC4Connection@25e210fd] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@630b9c7c]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4c442206] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1096628396 wrapping com.mysql.jdbc.JDBC4Connection@25e210fd] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4c442206]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e3a5a3e] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1051358369 wrapping com.mysql.jdbc.JDBC4Connection@48f98089] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2e3a5a3e]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@77e5b0f9] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1900324326 wrapping com.mysql.jdbc.JDBC4Connection@48f98089] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@77e5b0f9]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d5b4953] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1332793227 wrapping com.mysql.jdbc.JDBC4Connection@7ba10e5] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1d5b4953]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c860f1c] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1026624058 wrapping com.mysql.jdbc.JDBC4Connection@cb6abee] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2c860f1c]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d207893] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@602379079 wrapping com.mysql.jdbc.JDBC4Connection@cb6abee] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d207893]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1147b5b7] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@391226039 wrapping com.mysql.jdbc.JDBC4Connection@f65268b] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1147b5b7]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@11f64816] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@523351128 wrapping com.mysql.jdbc.JDBC4Connection@f65268b] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@11f64816]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4aaacb84] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@294641807 wrapping com.mysql.jdbc.JDBC4Connection@4c83796d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4aaacb84]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@626064f5] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1822922441 wrapping com.mysql.jdbc.JDBC4Connection@4c83796d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@626064f5]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1fe3be30] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@216705860 wrapping com.mysql.jdbc.JDBC4Connection@4c83796d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1fe3be30]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@72952a52] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@441206006 wrapping com.mysql.jdbc.JDBC4Connection@752644b9] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * from user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@72952a52]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@658ae97c] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1800215485 wrapping com.mysql.jdbc.JDBC4Connection@752644b9] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * from user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@658ae97c]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3cbd3e49] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1528309410 wrapping com.mysql.jdbc.JDBC4Connection@752644b9] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]<==    Updates: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3cbd3e49]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@595058f6] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@650027885 wrapping com.mysql.jdbc.JDBC4Connection@5659def] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@595058f6]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7bf0175] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@158924786 wrapping com.mysql.jdbc.JDBC4Connection@5659def] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * FROM user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7bf0175]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6aae5170] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@697121392 wrapping com.mysql.jdbc.JDBC4Connection@5659def] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6aae5170]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2a6bd37d] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@706041442 wrapping com.mysql.jdbc.JDBC4Connection@289ef242] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2a6bd37d]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3572d11b] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1001728453 wrapping com.mysql.jdbc.JDBC4Connection@289ef242] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==>  Preparing: SELECT * FROM user
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]==> Parameters: 
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryAll]<==      Total: 4
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3572d11b]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bf6f195] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1376509289 wrapping com.mysql.jdbc.JDBC4Connection@289ef242] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ?, pwd = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 7777(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bf6f195]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@9f1e331] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@355723485 wrapping com.mysql.jdbc.JDBC4Connection@4e8f53f5] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@9f1e331]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@791afebf] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1864605127 wrapping com.mysql.jdbc.JDBC4Connection@4e8f53f5] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ?, pwd = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 7777(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@791afebf]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@273bd115] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@704392066 wrapping com.mysql.jdbc.JDBC4Connection@4e8f53f5] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ?, pwd = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 7777(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@273bd115]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7e304710] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1053547099 wrapping com.mysql.jdbc.JDBC4Connection@2ad103d6] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ?, pwd = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 7777(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7e304710]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1147b5b7] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@391226039 wrapping com.mysql.jdbc.JDBC4Connection@f65268b] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1147b5b7]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@11f64816] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@523351128 wrapping com.mysql.jdbc.JDBC4Connection@f65268b] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@11f64816]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@257a2503] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1238465839 wrapping com.mysql.jdbc.JDBC4Connection@76a7fdcf] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@257a2503]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bd323b3] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@677951785 wrapping com.mysql.jdbc.JDBC4Connection@76a7fdcf] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ?, pwd = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 7777(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4bd323b3]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@44ce6479] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@80600024 wrapping com.mysql.jdbc.JDBC4Connection@76a7fdcf] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@44ce6479]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@69da525] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@877573058 wrapping com.mysql.jdbc.JDBC4Connection@404d8810] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@69da525]
+[DEBUG][20-12-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4e56f58f] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1719398722 wrapping com.mysql.jdbc.JDBC4Connection@6b0f537d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4e56f58f]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1cb5046c] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1766669508 wrapping com.mysql.jdbc.JDBC4Connection@6b0f537d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==>  Preparing: UPDATE user SET name = ? where id = ?
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.updateUser]==> Parameters: 学习redis使用Spring Cache(String), 4(Integer)
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1cb5046c]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@132bd41a] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@1448263098 wrapping com.mysql.jdbc.JDBC4Connection@6b0f537d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 4(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@132bd41a]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2f91836c] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@559315182 wrapping com.mysql.jdbc.JDBC4Connection@6b0f537d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 1(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 1
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2f91836c]
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Creating a new SqlSession
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@14aa2d7] was not registered for synchronization because synchronization is not active
+[DEBUG][20-12-23][org.mybatis.spring.transaction.SpringManagedTransaction]JDBC Connection [HikariProxyConnection@260918414 wrapping com.mysql.jdbc.JDBC4Connection@6b0f537d] will not be managed by Spring
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==>  Preparing: SELECT * FROM user WHERE id = ?;
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]==> Parameters: 11(Integer)
+[DEBUG][20-12-23][com.oay.mapper.UserMapper.queryById]<==      Total: 0
+[DEBUG][20-12-23][org.mybatis.spring.SqlSessionUtils]Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@14aa2d7]

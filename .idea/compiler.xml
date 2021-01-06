@@ -8,14 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-05-task" />
-        <module name="springboot-04-jdbctemplate" />
         <module name="springboot-08-swagger" />
         <module name="springboot-03-web" />
         <module name="springboot-10-zookeeper-dubbo-provider" />
         <module name="springboot" />
+        <module name="springboot-13-elasticsearch-demo" />
         <module name="springboot-02-config" />
         <module name="springboot-09-redis" />
-        <module name="springboot-04-jdbc" />
+        <module name="springboot-12-elasticsearch" />
         <module name="springboot-11-zookeeper-dubbo-consumer-service" />
         <module name="springboot-07-mybatis" />
       </profile>
@@ -33,6 +33,8 @@
       <module name="springboot-09-redis" target="1.8" />
       <module name="springboot-10-zookeeper-dubbo-provider" target="1.8" />
       <module name="springboot-11-zookeeper-dubbo-consumer-service" target="1.8" />
+      <module name="springboot-12-elasticsearch" target="1.8" />
+      <module name="springboot-13-elasticsearch-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -49,6 +51,8 @@
       <module name="springboot-09-redis" options="-parameters" />
       <module name="springboot-10-zookeeper-dubbo-provider" options="-parameters" />
       <module name="springboot-11-zookeeper-dubbo-consumer-service" options="-parameters" />
+      <module name="springboot-12-elasticsearch" options="-parameters" />
+      <module name="springboot-13-elasticsearch-demo" options="-parameters" />
     </option>
   </component>
 </project>
