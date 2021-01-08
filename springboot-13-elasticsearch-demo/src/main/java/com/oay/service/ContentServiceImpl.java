@@ -13,6 +13,7 @@ import org.elasticsearch.client.RestHighLevelClient;
 import org.elasticsearch.common.text.Text;
 import org.elasticsearch.common.unit.TimeValue;
 import org.elasticsearch.common.xcontent.XContentType;
+import org.elasticsearch.index.query.MatchAllQueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.index.query.TermQueryBuilder;
 import org.elasticsearch.search.SearchHit;
@@ -74,8 +75,9 @@ public class ContentServiceImpl implements ContentService {
         sourceBuilder.from(pageNo);
         sourceBuilder.size(pageSize);
         //  精准匹配查询
-        TermQueryBuilder termQueryBuilder = QueryBuilders.termQuery("title", "java");
-        sourceBuilder.query(termQueryBuilder);
+        //TermQueryBuilder termQueryBuilder = QueryBuilders.termQuery("title", "java");
+        MatchAllQueryBuilder matchAllQueryBuilder = QueryBuilders.matchAllQuery();
+        sourceBuilder.query(matchAllQueryBuilder);
         sourceBuilder.timeout(new TimeValue(60, TimeUnit.SECONDS));
         //  高亮
         HighlightBuilder highlightBuilder = new HighlightBuilder();
