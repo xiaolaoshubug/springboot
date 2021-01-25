@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/springboot-11-zookeeper-dubbo-consumer-service.iml" filepath="$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/springboot-11-zookeeper-dubbo-consumer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-12-elasticsearch/springboot-12-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-12-elasticsearch/springboot-12-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-13-elasticsearch-demo/springboot-13-elasticsearch-demo.iml" filepath="$PROJECT_DIR$/springboot-13-elasticsearch-demo/springboot-13-elasticsearch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-14-shiro-demo/springboot-14-shiro-demo.iml" filepath="$PROJECT_DIR$/springboot-14-shiro-demo/springboot-14-shiro-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-15-shiro-thymeleaf/springboot-15-shiro-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-15-shiro-thymeleaf/springboot-15-shiro-thymeleaf.iml" />
     </modules>
   </component>
 </project>

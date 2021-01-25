@@ -8,16 +8,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-05-task" />
-        <module name="springboot-08-swagger" />
         <module name="springboot-03-web" />
         <module name="springboot-10-zookeeper-dubbo-provider" />
-        <module name="springboot" />
+        <module name="springboot-15-shiro-thymeleaf" />
+        <module name="springboot-08-swagger" />
+        <module name="springboot-14-shiro-demo" />
         <module name="springboot-13-elasticsearch-demo" />
         <module name="springboot-02-config" />
         <module name="springboot-09-redis" />
         <module name="springboot-12-elasticsearch" />
-        <module name="springboot-11-zookeeper-dubbo-consumer-service" />
         <module name="springboot-07-mybatis" />
+        <module name="springboot-11-zookeeper-dubbo-consumer-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,6 +36,9 @@
       <module name="springboot-11-zookeeper-dubbo-consumer-service" target="1.8" />
       <module name="springboot-12-elasticsearch" target="1.8" />
       <module name="springboot-13-elasticsearch-demo" target="1.8" />
+      <module name="springboot-14-shiro" target="1.8" />
+      <module name="springboot-14-shiro-demo" target="1.8" />
+      <module name="springboot-15-shiro-thymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -53,6 +57,9 @@
       <module name="springboot-11-zookeeper-dubbo-consumer-service" options="-parameters" />
       <module name="springboot-12-elasticsearch" options="-parameters" />
       <module name="springboot-13-elasticsearch-demo" options="-parameters" />
+      <module name="springboot-14-shiro" options="-parameters" />
+      <module name="springboot-14-shiro-demo" options="-parameters" />
+      <module name="springboot-15-shiro-thymeleaf" options="-parameters" />
     </option>
   </component>
 </project>

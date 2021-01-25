@@ -18,7 +18,14 @@
         <option value="$PROJECT_DIR$/springboot-11-zookeeper-dubbo-consumer-service/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-12-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-13-elasticsearch-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-14-shiro-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-shiro-thymeleaf/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-14-shiro/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
